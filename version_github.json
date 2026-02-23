@@ -1,6 +1,7 @@
 {
-  "latest": "v1.1.2",
+  "latest": "v1.1.3",
   "versions": {
+    "v1.1.3": "https://github.com/4444753951/kk/releases/download/v1.1.3/updata.zip",
     "v1.1.2": "https://github.com/4444753951/kk/releases/download/v1.1.2/updata.zip",
     "v1.1.1": "https://github.com/4444753951/kk/releases/download/v1.1.1/updata.zip",
     "v1.1.0": "https://github.com/4444753951/kk/releases/download/v1.1.0/updata.zip",
