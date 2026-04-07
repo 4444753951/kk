@@ -3,7 +3,7 @@
 #### 介绍
 可后台自动收菜
 
-本体下载链接（夸克网盘）：https://pan.quark.cn/s/2ea0d6825a5b
+本体下载链接（夸克网盘）：[https://pan.quark.cn/s/2ea0d6825a5b](https://pan.quark.cn/s/1724d952b6e1)
 
 本体过大，只能 夸克网盘 了
 
